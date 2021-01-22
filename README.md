@@ -1,9 +1,6 @@
 ## Halo kawan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Hendra088
 <img align="center" height="auto" src="https://github.com/Hendra088/Hendra088/blob/master/img/images%20(15).jpeg"/>
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/Hendra088" width="225" height="225"/>
-
 <P align="center">
 <https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif" alt="GIF" width="128" height="128"/>
 ___
