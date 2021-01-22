@@ -2,7 +2,11 @@
 <img align="center" height="auto" src="https://github.com/Hendra088/Hendra088/blob/master/img/images%20(15).jpeg"/>
 
 <P align="center">
-<img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
+<img src="https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif" width="100%" alt="API Giphy logo"/>
+
+
+
+
 ___
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
