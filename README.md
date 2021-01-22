@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://avatars.githubusercontent.com/Hendra088" width="225" height="225"/>
 
-
+https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif
 ___
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
